@@ -1,0 +1,7 @@
+===Basic command==
+git init - инициализация
+git status - статус проекта
+git add . - добавление всех изменненых файлов для коммита
+git commit -m "name-commit" - коммит
+git remote add origin https://github.com/freeitgroupe/js_lessons.git - определяем репозиторий
+git push -u origin master - загружаем проект на гит
