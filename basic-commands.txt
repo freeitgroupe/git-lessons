@@ -5,4 +5,6 @@ git add . - добавление всех изменненых файлов дл
 git commit -m "name-commit" - коммит
 git remote add origin https://github.com/freeitgroupe/js_lessons.git - определяем репозиторий
 git push -u origin master - загружаем проект на гит
-git clone https://xxxxxxx@bitbucket.org/xxxxa/xxxxxx.git -b developers --single-branch
+git clone https://xxxxxxx@bitbucket.org/xxxxa/xxxxxx.git -b developers --single-branch - клон из ветки
+git pull origin developers - подгрузка изменений из ветки developers
+
